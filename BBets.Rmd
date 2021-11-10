@@ -1,12 +1,12 @@
 ---
 title: "Brownlows Bets"
-author: "Your Name Goes Here"
+author: "Rachel Gilpatrick"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"    
+date: "09 Nov. 2021"    
     
 ---
 ```{r setup, include=FALSE}
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 require(tidyverse)
 require(tigerstats)
 require(knitr)
-source(file="BrLw.R")
+source(file="payoffFunction-2.R")
 ```
 
 
