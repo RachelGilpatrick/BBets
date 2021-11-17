@@ -115,8 +115,8 @@ for(i in c(1:200)){
 hist(money)
 ```
 
-I started with
-
+started at 35     tried 20 27 31 30 29
+The class size needs to be between 28 and 29 students with the bet being 2:1 into Dr. J earnings to be ZERO! I started at the calss size of 35 which was too high. The next try was a class size of 20 which was too low. Maneuvering between 35 and 20 with 20, 27, 30 and finally deciding that 28 0r 29 students was the number of students.
 
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
@@ -132,3 +132,4 @@ I started with
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+Initially at the beginning Dr. J was making about $200 with class size of 35 with 2:1 odds when guessing that there would be at least two students in the same class with the same birthday. When changing the odds to 4.5:1 it would leave Dr. J close to zero profit. When changing the class size to either 29 or 28 students at 2:1 oddsthe same was true. Dr. J's profits were close to zero.
